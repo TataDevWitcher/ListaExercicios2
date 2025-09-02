@@ -11,7 +11,7 @@ namespace Exercicio1
 
             int numeroInt;
 
-            Console.WriteLine("Informe um número inteiro e saberá se é positivo ou negativo:");
+            Console.WriteLine("Informe um número inteiro e saberá se é positivo ou negativo: ");
             numeroInt = int.Parse(Console.ReadLine());
 
             if(numeroInt < 0)
